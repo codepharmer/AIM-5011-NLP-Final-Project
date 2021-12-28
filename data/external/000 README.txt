@@ -1,0 +1,1 @@
+In this folder are all the Facebook memes. And a file called "facebook_images.csv" with the classification of each image

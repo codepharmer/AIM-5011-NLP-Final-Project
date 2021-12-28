@@ -1,0 +1,1 @@
+In this folder are all our memes. And a file called "our_images.csv" with the classification of each image
