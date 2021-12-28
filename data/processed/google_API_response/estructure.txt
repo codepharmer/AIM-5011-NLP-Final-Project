@@ -1,6 +1,7 @@
-image_name,text.json,object.json
+image_name,hate,text.json,object.json
 
 
 First element is the name of the image
-Second element is the text of the image in json
-Third element is the object of the image in json
+Seconf element indicate if image is hate(1) or not(0)
+Third element is the text of the image in json
+Fourth element is the object of the image in json
