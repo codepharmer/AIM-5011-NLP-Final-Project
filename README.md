@@ -10,7 +10,8 @@ the below structure should be referenced and maintained for all file additions t
 │   └── raw            <- The original, immutable data dump.
 │
 ├── docs               <- all project docuemnetation goes here
-│  
+│
+├── models             <- Trained and serialized models, model predictions, or model summaries
 │
 ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
 │                         the creator's initials, and a short `-` delimited description, e.g.
