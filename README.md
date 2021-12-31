@@ -1,6 +1,4 @@
-# NLP_hate_memes
-
-# repo structure 
+# Repository for all Files related to the Meme Classification Final Project for Natural Language Processing 
 
 the below structure should be referenced and maintained for all file additions to the repository.
 
